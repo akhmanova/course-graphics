@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(207): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(404): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(410): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(417): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(421): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(428): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(432): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(440): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(446): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(448): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(453): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(457): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(459): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(643): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_7\akhmanova\main.cpp(648): warning C4018: <: несоответствие типов со знаком и без знака
+  Akhmanova.vcxproj -> C:\Users\winwi\Desktop\Универ\Заочка\5 семестр\Компьютерная графика\Akhmanova\Akhmanova_task_7\Debug\Akhmanova.exe

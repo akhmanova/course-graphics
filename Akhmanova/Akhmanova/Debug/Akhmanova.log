@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova\akhmanova\myform.h(79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova\akhmanova\myform.h(80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Akhmanova.vcxproj -> C:\Users\winwi\Desktop\Универ\Заочка\5 семестр\Компьютерная графика\Akhmanova\Akhmanova\Debug\Akhmanova.exe

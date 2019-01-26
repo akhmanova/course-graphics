@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(119): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(122): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(124): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(128): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(204): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(209): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(214): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(219): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(224): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(229): warning C4305: аргумент: усечение из "double" в "float"
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\myform.h(348): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_4\akhmanova\matrix.h(72): warning C4172: возвращение адреса локальной или временной переменной
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Akhmanova.vcxproj -> D:\Универ\Заочка\5 семестр\Компьютерная графика\Akhmanova\Akhmanova_task_4\Debug\Akhmanova.exe

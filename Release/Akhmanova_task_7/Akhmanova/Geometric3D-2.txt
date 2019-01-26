@@ -1,0 +1,205 @@
+# установка камеры в точку (10,5,5) направленной в точку (10,5,0)
+# с направлением вверх (0,1,0)
+camera 10 5 5 10 5 0 0 1 0
+# установка окна с углом обзора 90 градусов
+# с соотношением сторон 2:1 на расстоянии 5 от наблюдателя (от камеры)
+# расстояние до горизонта - 20
+screen 90 2 5 20
+
+# первый рисунок
+color 0 0 0
+thickness 2
+
+model 0.5 0.5 0.5 1 1 1 
+path 10
+0 1 0
+1 1 0
+1 1 1
+0 1 1
+0 1 0
+0 0 0
+1 0 0
+1 0 1
+0 0 1
+0 1 1
+path 2
+0 0 0
+0 0 1
+path 2
+1 1 0
+1 0 0
+path 2
+1 1 1
+1 0 1
+
+# преобразования и размещения по описанию
+pushTransform
+pushTransform
+
+pushTransform
+rotate 45 0 0 1
+rotate 45 1 1 0 #дополнительный поворот вокруг своей оси
+scale 2.5
+translate 6 5 -5
+figure
+
+popTransform
+rotate 90 0 0 1
+rotate 90 1 1 0 #дополнительный поворот вокруг своей оси
+translate 4 0 0
+pushTransform
+translate 6 5 -5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 0
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -1
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -2
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -3
+figure
+
+popTransform
+rotate 60 0 0 1
+translate 6 5 -4
+figure
+
+popTransform
+rotate 270 0 0 1
+rotate 270 1 1 0 #дополнительный поворот вокруг своей оси
+translate 4 0 0
+pushTransform
+translate 14 5 -8
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 14 5 -7
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 14 5 -6
+figure
+
+popTransform
+rotate 120 0 0 1
+pushTransform
+translate 14 5 -10
+figure
+
+popTransform
+rotate 60 0 0 1
+translate 14 5 -9
+figure
+
+
+popTransform
+
+# второй рисунок
+color 0 0 0
+thickness 2
+
+model 0.5 0.433 0.4082 1 0.866 0.8165
+path 5
+0 0 0
+0.5 0.2887 0.8165
+1 0 0
+0.5 0.866 0
+0.5 0.2887 0.8165
+path 3
+0.5 0.866 0
+0 0 0
+1 0 0
+
+# преобразования и размещения по описанию
+pushTransform
+
+pushTransform
+rotate 180 0 0 1
+rotate 180 1 1 0 #дополнительный поворот вокруг своей оси
+scale 2.5
+translate 14 5 -5
+figure
+
+popTransform
+rotate 90 0 0 1
+rotate 90 1 1 0 #дополнительный поворот вокруг своей оси
+translate 4 0 0
+rotate 90 0 0 1
+pushTransform
+translate 6 5 -0.5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -1.5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -2.5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 6 5 -3.5
+figure
+
+popTransform
+rotate 60 0 0 1
+translate 6 5 -4.5
+figure
+
+popTransform
+rotate 270 0 0 1
+rotate 270 1 1 0 #дополнительный поворот вокруг своей оси
+translate 4 0 0
+rotate 30 0 0 1
+pushTransform
+translate 14 5 -7.5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 14 5 -6.5
+figure
+
+popTransform
+rotate 60 0 0 1
+pushTransform
+translate 14 5 -5.5
+figure
+
+popTransform
+rotate 120 0 0 1
+pushTransform
+translate 14 5 -9.5
+figure
+
+popTransform
+rotate 60 0 0 1
+translate 14 5 -8.5
+figure

@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(106): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(180): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(185): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(190): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(195): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(200): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(205): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(255): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\myform.h(256): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_3\akhmanova\matrix.h(72): warning C4172: возвращение адреса локальной или временной переменной
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Akhmanova.vcxproj -> C:\Users\winwi\Desktop\Универ\Заочка\5 семестр\Компьютерная графика\Akhmanova\Akhmanova_task_3\Debug\Akhmanova.exe

@@ -1,0 +1,41 @@
+﻿  MyForm.cpp
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\transform.h(55): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\transform.h(57): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\transform.h(84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\transform.h(85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(161): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(199): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(207): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(215): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(223): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(230): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(235): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(241): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(249): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(258): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(266): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(275): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(283): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(292): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(300): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(340): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(342): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(346): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(348): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(353): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(357): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(359): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(364): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(368): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(370): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(376): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(382): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(384): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(389): warning C4305: +=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(393): warning C4305: -=: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(395): warning C4305: =: усечение из "double" в "float"
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(452): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\myform.h(508): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\matrix.h(151): warning C4172: возвращение адреса локальной или временной переменной
+c:\users\winwi\desktop\универ\заочка\5 семестр\компьютерная графика\akhmanova\akhmanova_task_6\akhmanova\matrix.h(197): warning C4172: возвращение адреса локальной или временной переменной
+  Akhmanova.vcxproj -> C:\Users\winwi\Desktop\Универ\Заочка\5 семестр\Компьютерная графика\Akhmanova\Akhmanova_task_6\x64\Debug\Akhmanova.exe
